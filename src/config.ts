@@ -21,7 +21,7 @@ import { getTranslateLanguageFromConfig } from "./utils/language-utils";
 const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
+	title: "阮Yua雾浅",
 	subtitle: "One demo website",
 
 	lang: SITE_LANG,
